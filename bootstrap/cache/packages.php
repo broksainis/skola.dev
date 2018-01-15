@@ -1,14 +1,16 @@
 <?php return array (
-  'laravelcollective/html' => 
+  'fideloper/proxy' => 
   array (
     'providers' => 
     array (
-      0 => 'Collective\\Html\\HtmlServiceProvider',
+      0 => 'Fideloper\\Proxy\\TrustedProxyServiceProvider',
     ),
-    'aliases' => 
+  ),
+  'laravel/tinker' => 
+  array (
+    'providers' => 
     array (
-      'Form' => 'Collective\\Html\\FormFacade',
-      'Html' => 'Collective\\Html\\HtmlFacade',
+      0 => 'Laravel\\Tinker\\TinkerServiceProvider',
     ),
   ),
 );

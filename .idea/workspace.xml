@@ -2,712 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea341c3-a96b-47cb-9ebd-176b7a299b67" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/php-parse" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/php-parse.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/psysh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/psysh.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/src/Xdg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fideloper/proxy/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fideloper/proxy/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fideloper/proxy/config/trustedproxy.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fideloper/proxy/src/TrustProxies.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/fideloper/proxy/src/TrustedProxyServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/example.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/src/JakubOnderka/PhpConsoleColor/ConsoleColor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/src/JakubOnderka/PhpConsoleColor/InvalidStyleException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/tests/JakubOnderka/PhpConsoleColor/ConsoleColorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color/tests/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/examples/snippet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/examples/whole_file.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/examples/whole_file_line_numbers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/src/JakubOnderka/PhpConsoleHighlighter/Highlighter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/tests/JakubOnderka/PhpConsoleHighligter/HigligterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter/tests/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/src/ClassAliasAutoloader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/src/Console/TinkerCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/src/TinkerCaster.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/laravel/tinker/src/TinkerServiceProvider.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/UPGRADE-1.0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/UPGRADE-2.0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/UPGRADE-3.0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/bin/php-parse" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/0_Introduction.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/2_Usage_of_basic_components.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/3_Other_node_tree_representations.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/4_Code_generation.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Error_handling.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/doc/component/Lexer.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/parser.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/php5.y" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/php7.y" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/rebuildParsers.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/tokens.template" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/grammar/tokens.y" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Autoloader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Function_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Trait_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/BuilderAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/BuilderFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Comment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Lexer/Emulative.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/Encapsed.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeDumper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeTraverserInterface.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitor/NameResolver.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Php5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Parser/Tokens.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/ParserFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Serializer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Serializer/XML.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Unserializer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/PhpParser/Unserializer/XML.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/lib/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/AutoloaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/ClassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/FunctionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/InterfaceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/MethodTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/NamespaceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/ParamTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/PropertyTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/TraitTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Builder/UseTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/BuilderFactoryTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CodeParsingTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CodeTestAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/CommentTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ErrorHandler/CollectingTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ErrorHandler/ThrowingTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ErrorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Lexer/EmulativeTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/LexerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/NameTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/MagicConstTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Scalar/StringTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassConstTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassMethodTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/ClassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/InterfaceTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Node/Stmt/PropertyTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeAbstractTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeDumperTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeTraverserTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/NodeVisitor/NameResolverTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Parser/MultipleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Parser/Php5Test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Parser/Php7Test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ParserFactoryTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/ParserTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/PrettyPrinterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Serializer/XMLTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/PhpParser/Unserializer/XMLTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/blockComments.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/comments.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/errorHandling/eofError.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/errorHandling/lexerErrors.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/errorHandling/recovery.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/arrayDestructuring.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/assign.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/assignNewByRef.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/cast.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/clone.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/closure.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/comparison.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/constant_expr.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/errorSuppress.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/exit.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/args.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/constFetch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/constantDeref.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/funcCall.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/newDeref.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/simpleArrayAccess.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticCall.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticPropertyFetch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/includeAndEval.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/issetAndEmpty.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/listWithKeys.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/logic.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/math.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/new.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/newWithoutClass.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/print.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/shellExec.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/ternaryAndCoalesce.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/globalNonSimpleVarError.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/indirectCall.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/isset.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/misc.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/new.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/uvs/staticProperty.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/expr/variable.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/constantString.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docString.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/docStringNewlines.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/encapsedNegVarOffset.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/encapsedString.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/float.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/int.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/invalidOctal.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/magicConst.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/scalar/unicodeEscape.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/semiReserved.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/blocklessStatement.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/abstract.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/anonymous.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/conditional.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/constModifierErrors.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/constModifiers.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/final.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/implicitPublic.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/interface.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/modifier.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/name.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/php4Style.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/simple.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/staticMethod.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/class/trait.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/const.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/controlFlow.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/declare.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/echo.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/builtinTypeDeclarations.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/byRef.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/conditional.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/defaultValues.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/nullableTypes.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/returnTypes.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/specialVars.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/typeDeclarations.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/variadic.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/function/variadicDefaultValue.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/generator/basic.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/generator/yieldPrecedence.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/generator/yieldUnaryPrecedence.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompiler.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerInvalidSyntax.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerOffset.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/haltCompilerOutermostScope.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/hashbang.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/if.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/inlineHTML.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/do.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/for.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/foreach.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/loop/while.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/multiCatch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/alias.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/braced.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/commentAfterNamespace.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUse.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUseErrors.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUsePositions.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/groupUseTrailingComma.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/invalidName.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/mix.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/name.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/nested.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/notBraced.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/nsAfterHashbang.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/outsideStmt.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/namespace/outsideStmtInvalid.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/switch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/tryCatch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/tryWithoutCatch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/parser/stmt/unset.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/comments.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/commentsInCommaList.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/anonymousClass.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/arrayDestructuring.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/call.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/closure.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/constant_deref.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/docStrings.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/include.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/intrinsics.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/list.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/literals.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/numbers.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/operators.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/parentheses.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/shortArraySyntax.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/stringEscaping.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/uvs.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/variables.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/expr/yield.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/inlineHTMLandPHPtest.file-test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/onlyInlineHTML.file-test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/onlyPHP.file-test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/alias.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/break_continue.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/class.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/class_const.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/const.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/declare.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/do_while.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/for.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/foreach.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/function_signatures.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/global_static_variables.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/goto.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/groupUse.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/haltCompiler.file-test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/if.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/multiCatch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/namespaces.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/nullable_types.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/switch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/throw.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/traitUse.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/tryCatch.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test/code/prettyPrinter/stmt/while.test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test_old/run-php-src.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/nikic/php-parser/test_old/run.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.phan/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.php_cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.styleci.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-manual" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-phar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-vendor" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-vendor-compat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/package" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/psysh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/phpunit.xml.dist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Autoloader.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/AbstractClassPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/AssignThisVariablePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/CallTimePassByReferencePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/CalledClassPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/CodeCleanerPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ExitPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/FinalClassPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/FunctionContextPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/FunctionReturnInWriteContextPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ImplicitReturnPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/InstanceOfPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/LeavePsyshAlonePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/LegacyEmptyPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/LoopContextPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/MagicConstantsPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/NamespaceAwarePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/NamespacePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/NoReturnValue.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/PassableByReferencePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/RequirePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/StaticConstructorPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/StrictTypesPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/UseStatementPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidClassNamePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidConstantPass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/CodeCleaner/ValidFunctionNamePass.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/BufferCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ClearCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/Command.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/DocCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/DumpCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/EditCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ExitCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/HelpCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/HistoryCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/ClassConstantEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/ClassEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/ConstantEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/Enumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/FunctionEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/GlobalVariableEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/InterfaceEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/MethodEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/PropertyEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/TraitEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ListCommand/VariableEnumerator.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ParseCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/PsyVersionCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ReflectingCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ShowCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/SudoCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/ThrowUpCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/TraceCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/WhereamiCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Command/WtfCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Compiler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/ConfigPaths.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Configuration.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/ConsoleColorFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Context.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/ContextAware.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/BreakException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/DeprecatedException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/ErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/Exception.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/FatalErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/ParseErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/RuntimeException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/ThrowUpException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Exception/TypeErrorException.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/ExecutionLoop/ForkingLoop.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/ExecutionLoop/Loop.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Formatter/CodeFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Formatter/DocblockFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Formatter/Formatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Formatter/SignatureFormatter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Input/CodeArgument.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Input/FilterOptions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Input/ShellInput.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Input/SilentInput.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Output/OutputPager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Output/PassthruPager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Output/ProcOutputPager.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Output/ShellOutput.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/ParserFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Readline/GNUReadline.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Readline/HoaConsole.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Readline/Libedit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Readline/Readline.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Readline/Transient.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Reflection/ReflectionConstant.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Reflection/ReflectionLanguageConstruct.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Reflection/ReflectionLanguageConstructParameter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Shell.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Sudo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Sudo/SudoVisitor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/AutoCompleter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/AbstractContextAwareMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/AbstractMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ClassAttributesMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ClassMethodsMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ClassNamesMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/CommandsMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ConstantsMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/FunctionsMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/KeywordsMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/MongoClientMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/MongoDatabaseMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ObjectAttributesMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/ObjectMethodsMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/TabCompletion/Matcher/VariablesMatcher.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Util/Docblock.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Util/Json.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Util/Mirror.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/Util/Str.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VarDumper/Cloner.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VarDumper/Dumper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VarDumper/Presenter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VarDumper/PresenterAware.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VersionUpdater/Checker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VersionUpdater/GitHubChecker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VersionUpdater/IntervalChecker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/VersionUpdater/NoopChecker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Psy/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/AutoloaderTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/AbstractClassPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/AssignThisVariablePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/CallTimePassByReferencePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/CalledClassPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/CodeCleanerTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ExitPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/FinalClassPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/Fixtures/ClassWithCallStatic.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/Fixtures/ClassWithStatic.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/FunctionContextPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/FunctionReturnInWriteContextPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ImplicitReturnPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/InstanceOfPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/LeavePsyshAlonePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/LegacyEmptyPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/LoopContextPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/MagicConstantsPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/NamespacePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/PassableByReferencePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/RequirePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/StaticConstructorPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/StrictTypesPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/UseStatementPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidClassNamePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidConstantPassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleaner/ValidFunctionNamePassTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/CodeCleanerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ConfigurationTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ConsoleColorFactoryTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Exception/BreakExceptionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Exception/ErrorExceptionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Exception/FatalErrorExceptionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Exception/ParseErrorExceptionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Exception/RuntimeExceptionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/CodeFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/DocblockFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Formatter/SignatureFormatterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Input/CodeArgumentTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Input/ShellInputTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Readline/HoaConsoleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Reflection/ReflectionConstantTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/ShellTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/TabCompletion/AutoCompleterTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/TabCompletion/StaticSample.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Util/DocblockTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Util/MirrorTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/Util/StrTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Psy/Test/VersionUpdater/GitHubCheckerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/default/.config/psysh/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/default/.config/psysh/psysh_history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/default/.local/share/psysh/php_manual.sqlite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/empty.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/legacy/.psysh/history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/legacy/.psysh/php_manual.sqlite" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/legacy/.psysh/rc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/mixed/.psysh/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/mixed/.psysh/psysh_history" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/mixed/.psysh/rc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/project/.psysh.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/fixtures/unvis_fixtures.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/tools/gen_unvis_fixtures.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/tools/vis.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/NewsCategory.php" afterPath="$PROJECT_DIR$/app/NewsCategory.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.env" afterPath="$PROJECT_DIR$/.env" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/cache/packages.php" afterPath="$PROJECT_DIR$/bootstrap/cache/packages.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/inc/sideArea.blade.php" afterPath="$PROJECT_DIR$/resources/views/inc/sideArea.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/QcCatr2wpjdnMDzMkGre9MEVmgJ1WpMNRKOesy63" afterPath="$PROJECT_DIR$/storage/framework/sessions/QcCatr2wpjdnMDzMkGre9MEVmgJ1WpMNRKOesy63" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/6494a3ba545e3515dc370c83e834e8be57941df6.php" afterPath="$PROJECT_DIR$/storage/framework/views/6494a3ba545e3515dc370c83e834e8be57941df6.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -719,31 +28,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NewsCategory.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/NewsCategory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sideArea.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/inc/sideArea.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding>
                 <element signature="e#7#389#0#PHP" expanded="true" />
               </folding>
@@ -751,41 +40,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NewsCategoryController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NewsCategoryController.php">
+      <file leaf-file-name="dashboard.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/dashboard.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1516041750555" expanded="true" signature="23:87" ph="..." />
+                <marker date="1516041750555" expanded="true" signature="23:88" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sideArea.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/inc/sideArea.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newscategory.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/pages/newscategory.blade.php">
+      <file leaf-file-name="NewsCategory.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/NewsCategory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-209">
-              <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="164" column="51" lean-forward="false" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+            <state relative-caret-position="136">
+              <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -811,17 +93,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/inc/sideArea.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/database/migrations/2018_01_15_185332_create_news_category_table.php" />
         <option value="$PROJECT_DIR$/app/NewsCategory.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/NewsCategoryController.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/resources/views/inc/sideArea.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/pages/newscategory.blade.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/config/app.php" />
       </list>
     </option>
   </component>
@@ -835,10 +113,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -901,28 +178,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1026,61 +281,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="skola.dev" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1114,18 +315,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516037886421</updated>
-      <workItem from="1516037894247" duration="7077000" />
+      <workItem from="1516037894247" duration="5297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7077000" />
+    <option name="totallyTimeSpent" value="5297000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1727672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25256976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1153,6 +354,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#7#389#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -1188,6 +399,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/inc/sideArea.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2018_01_15_185332_create_news_category_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1201,57 +420,7 @@
     <entry file="file://$PROJECT_DIR$/app/NewsCategory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NewsCategoryController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#389#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/inc/sideArea.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/pages/newscategory.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-209">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="164" column="51" lean-forward="false" selection-start-line="164" selection-start-column="51" selection-end-line="164" selection-end-column="51" />
+          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding />
         </state>
       </provider>
