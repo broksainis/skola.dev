@@ -15,3 +15,7 @@
 Route::get('/', function () {
     return view('dashboard');
 });
+
+//news categories
+
+Route::get('category/news', 'NewsCategoryController@index')->name('newscategory.index');
