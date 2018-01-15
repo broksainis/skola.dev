@@ -32,3 +32,6 @@ Route::post('/news/add', 'NewsController@store')->name('news.add');
 
 // show news
 Route::get('/blog', 'BlogController@index')->name('blog.index');
+
+//show single new
+Route::get('/blog/{id}', 'BlogController@show')->name('blog.show');

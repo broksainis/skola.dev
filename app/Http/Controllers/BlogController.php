@@ -48,7 +48,9 @@ class BlogController extends Controller
      */
     public function show($id)
     {
-        //
+        //show single news
+        $news = News::findOrFail($id);
+        return view('blog.show')->with('news', $news);
     }
 
     /**

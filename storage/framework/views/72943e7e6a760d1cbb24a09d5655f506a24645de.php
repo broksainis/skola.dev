@@ -10,7 +10,7 @@
             <h4 class="card-title"><?php echo e($new->title); ?></h4>
             <p class="card-text"><?php echo e($new->content); ?></p>
             <p class="card-text">Autors: <?php echo e($new->author); ?></p>
-            <a href="#" class="btn btn-primary">Lasīt ziņu</a>
+            <a href="<?php echo e(route('blog.show', ['id' => $new->id])); ?>" class="btn btn-primary">Lasīt ziņu</a>
         </div>
     </div>
         <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>

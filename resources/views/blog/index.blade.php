@@ -12,7 +12,7 @@
             <h4 class="card-title">{{$new->title}}</h4>
             <p class="card-text">{{$new->content}}</p>
             <p class="card-text">Autors: {{$new->author}}</p>
-            <a href="#" class="btn btn-primary">Lasīt ziņu</a>
+            <a href="{{route('blog.show', ['id' => $new->id])}}" class="btn btn-primary">Lasīt ziņu</a>
         </div>
     </div>
         @endforeach
