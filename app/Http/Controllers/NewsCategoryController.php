@@ -38,10 +38,14 @@ class NewsCategoryController extends Controller
     public function store(Request $request)
     {
         //initialize news category
-        $category = new NewsCategory();
-        $category->name = $request->newsCategoryName;
-        $category->author = "John Louis";
-        $category->save();
+        $newscategory = new NewsCategory();
+        $newscategory->name = $request->newsCategoryName;
+        $newscategory->author = "John Louis";
+        $newscategory->save();
+
+        //saving succes
+        session()->flash('Success', 'Kategorija:'. $newscategory->name . 'Veiksmīgi pievienota');
+
         return redirect()->back();
     }
 

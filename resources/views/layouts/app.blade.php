@@ -9,6 +9,8 @@
     <body>
         <div class="container">
             <div class="row">
+                @include('inc.messages')
+
                 @yield('main-row')
             </div>
         </div>
