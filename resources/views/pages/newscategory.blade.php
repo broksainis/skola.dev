@@ -9,7 +9,9 @@
         </div>
 
         <div id="category-container">
-            Container
+            <div id="category-form">
+                <form action=""></form>
+            </div>
         </div>
 
     </div>
