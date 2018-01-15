@@ -29,3 +29,6 @@ Route::get('/news', 'NewsController@index')->name('news.index');
 
 // add news
 Route::post('/news/add', 'NewsController@store')->name('news.add');
+
+// show news
+Route::get('/blog', 'BlogController@index')->name('blog.index');
