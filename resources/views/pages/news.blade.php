@@ -15,6 +15,7 @@
                 {!! Form::text('newsTitle', '', ['class' => 'form-control']) !!}
 
                 <select name="newsCategoryName" id="newsCategoryName" class="form-control">
+                    <option disabled>Izvēlies</option>
                     @foreach ($newscategories as $category)
                     <option>{{$category->name}}</option>
                     @endforeach
