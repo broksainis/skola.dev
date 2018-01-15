@@ -37,6 +37,7 @@ class NewsCategoryController extends Controller
      */
     public function store(Request $request)
     {
+        $this->validate($request, ['newsCategoryName' => 'required|min:3|max:100']);
         //initialize news category
         $newscategory = new NewsCategory();
         $newscategory->name = $request->newsCategoryName;
