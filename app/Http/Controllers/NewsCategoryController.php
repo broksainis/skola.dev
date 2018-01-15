@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
+use App\NewsCategory;
 
 class NewsCategoryController extends Controller
 {
@@ -35,7 +36,12 @@ class NewsCategoryController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        //initialize news category
+        $category = new NewsCategory();
+        $category->name = $request->newsCategoryName;
+        $category->author = "John Louis";
+        $category->save();
+        return redirect()->back();
     }
 
     /**

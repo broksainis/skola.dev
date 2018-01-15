@@ -10,7 +10,11 @@
 
         <div id="category-container">
             <div id="category-form">
-                <form action=""></form>
+                {!! Form::open(['route' => 'newscategory.add', 'method' => 'POST']) !!}
+                    {!! Form::label('newsCategoryName', 'Nosaukums') !!}
+                    {!! Form::text('newsCategoryName', '', ['class' => 'form-control']) !!}
+                    {!! Form::submit('Pievienot', ['class' => 'btn btn-success btn-block']) !!}
+                {!! Form::close() !!}
             </div>
         </div>
 

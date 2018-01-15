@@ -19,3 +19,6 @@ Route::get('/', function () {
 //news categories
 
 Route::get('category/news', 'NewsCategoryController@index')->name('newscategory.index');
+
+// news category add
+Route::post('category/news/add', 'NewsCategoryController@store')->name('newscategory.add');

@@ -7,7 +7,18 @@
         </div>
 
         <div id="category-container">
-            Container
+            <div id="category-form">
+                <?php echo Form::open(['route' => 'newscategory.add', 'method' => 'POST']); ?>
+
+                    <?php echo Form::label('newsCategoryName', 'Nosaukums'); ?>
+
+                    <?php echo Form::text('newsCategoryName', '', ['class' => 'form-control']); ?>
+
+                    <?php echo Form::submit('Pievienot', ['class' => 'btn btn-success btn-block']); ?>
+
+                <?php echo Form::close(); ?>
+
+            </div>
         </div>
 
     </div>
