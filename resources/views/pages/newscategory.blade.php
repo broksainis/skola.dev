@@ -36,8 +36,8 @@
                     <td>{{$category->name}}</td>
                     <td>{{$category->author}}</td>
                     <td>{{$category->created_at}}</td>
-                    <td><a><span class="btn btn-warning">Rediģēt</span></a></td>
-                    <td><a><span class="btn btn-warning">Dzēst</span></a></td>
+                    <td><a data-js="open-edit"><span id="{{$category->id}}" class="btn btn-warning">Rediģēt</span></a></td>
+                    <td><a data-js-type="open-remove"><span id="{{$category->id}}" class="btn btn-warning">Dzēst</span></a></td>
                 </tr>
                 @endforeach
             </table>

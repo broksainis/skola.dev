@@ -22,3 +22,10 @@ Route::get('category/news', 'NewsCategoryController@index')->name('newscategory.
 
 // news category add
 Route::post('category/news/add', 'NewsCategoryController@store')->name('newscategory.add');
+
+
+//show news
+Route::get('/news', 'NewsController@index')->name('news.index');
+
+// add news
+Route::post('/news/add', 'NewsController@store')->name('news.add');
