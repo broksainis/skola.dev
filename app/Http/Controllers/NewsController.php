@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\NewsCategory;
+use App\News;
 
 class NewsController extends Controller
 {
@@ -37,7 +38,18 @@ class NewsController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $this->validate($request, ['newsTitle' => 'required|min:3|max:100', 'newsCategoryName' => 'required', 'newsContent' => 'required']);
+        //initialize news
+        $news = new News();
+        $news->title = $request->newsTitle;
+        $news->author = "John Lewis";
+        $news->category = $request->newsCategoryName;
+        $news->content = $request->newsContent;
+        $news->save();
+
+        session()->flash('Ziņa veiksmīgi pievienota.');
+        return redirect()->back();
+
     }
 
     /**

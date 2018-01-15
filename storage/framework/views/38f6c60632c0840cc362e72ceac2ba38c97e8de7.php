@@ -21,7 +21,7 @@
                     <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
                 </select>
 
-                <?php echo Form::label('newsImage', 'Fotogrāfija'); ?>
+                <?php echo Form::label('newsContent', 'Saturs'); ?>
 
                 <?php echo Form::textarea('newsContent', '', ['class' => 'form-control']); ?>
 

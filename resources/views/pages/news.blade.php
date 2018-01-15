@@ -20,7 +20,7 @@
                     @endforeach
                 </select>
 
-                {!! Form::label('newsImage', 'Fotogrāfija') !!}
+                {!! Form::label('newsContent', 'Saturs') !!}
                 {!! Form::textarea('newsContent', '', ['class' => 'form-control']) !!}
 
                 {!! Form::submit('Pievienot', ['class' => 'btn btn-success btn-block']) !!}
