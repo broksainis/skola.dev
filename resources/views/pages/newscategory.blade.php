@@ -18,6 +18,32 @@
             </div>
         </div>
 
+        <div id="categories table" class="table-responsive">
+            @if(count($newscategories) > 0)
+            <table class="table">
+                <tr>
+                    <th>ID</th>
+                    <th>Nosaukums</th>
+                    <th>Autors</th>
+                    <th>Pievienots</th>
+                    <th>Rediģēt</th>
+                    <th>Dzēst</th>
+                </tr>
+
+                @foreach($newscategories as $i=>$category)
+                <tr>
+                    <td>{{$i+1}}</td>
+                    <td>{{$category->name}}</td>
+                    <td>{{$category->author}}</td>
+                    <td>{{$category->created_at}}</td>
+                    <td><a><span class="btn btn-warning">Rediģēt</span></a></td>
+                    <td><a><span class="btn btn-warning">Dzēst</span></a></td>
+                </tr>
+                @endforeach
+            </table>
+                @endif
+        </div>
+
     </div>
 
 @endsection

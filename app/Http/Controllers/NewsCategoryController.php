@@ -15,7 +15,8 @@ class NewsCategoryController extends Controller
      */
     public function index()
     {
-        return view('pages.newscategory');
+        $newscategories = NewsCategory::orderBy('created_at', 'asc')->get();
+        return view('pages.newscategory')->with('newscategories', $newscategories);
     }
 
     /**

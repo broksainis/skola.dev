@@ -21,6 +21,32 @@
             </div>
         </div>
 
+        <div id="categories table" class="table-responsive">
+            <?php if(count($newscategories) > 0): ?>
+            <table class="table">
+                <tr>
+                    <th>ID</th>
+                    <th>Nosaukums</th>
+                    <th>Autors</th>
+                    <th>Pievienots</th>
+                    <th>Rediģēt</th>
+                    <th>Dzēst</th>
+                </tr>
+
+                <?php $__currentLoopData = $newscategories; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $i=>$category): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
+                <tr>
+                    <td><?php echo e($i+1); ?></td>
+                    <td><?php echo e($category->name); ?></td>
+                    <td><?php echo e($category->author); ?></td>
+                    <td><?php echo e($category->created_at); ?></td>
+                    <td><a><span class="btn btn-warning">Rediģēt</span></a></td>
+                    <td><a><span class="btn btn-warning">Dzēst</span></a></td>
+                </tr>
+                <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
+            </table>
+                <?php endif; ?>
+        </div>
+
     </div>
 
 <?php $__env->stopSection(); ?>
