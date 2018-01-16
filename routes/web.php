@@ -31,7 +31,18 @@ Route::get('/news', 'NewsController@index')->name('news.index');
 Route::post('/news/add', 'NewsController@store')->name('news.add');
 
 // show news
-Route::get('/blog', 'BlogController@index')->name('blog.index');
+Route::get('/', 'BlogController@index')->name('blog.index');
 
 //show single new
 Route::get('/blog/{id}', 'BlogController@show')->name('blog.show');
+Auth::routes();
+
+//Route::get('/home', 'HomeController@index')->name('home');
+
+Route::prefix('admin')->group(function(){
+    Route::get('/login', 'Auth\AdminLoginController@showLoginForm')->name('admin.login');
+    Route::post('/login', 'Auth\AdminLoginController@login')->name('admin.login.submit');
+    Route::get('/logout', 'Auth\AdminLoginController@logout')->name('admin.logout');
+    Route::get('/', 'AdminController@index')->name('admin.dashboard');
+});
+

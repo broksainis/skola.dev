@@ -4,7 +4,7 @@
             <li class="active"><a href="">Dashboard</a></li>
             <li><a href="{{route('news.index')}}">Add new Post</a></li>
             <li><a href={{route('newscategory.index')}}>Category</a></li>
-            <li><a href="">Admin</a></li>
+            <li><a href="{{route('admin.logout')}}">Logout</a></li>
         </ul>
     </nav>
 </div>
