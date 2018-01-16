@@ -11,6 +11,14 @@
 |
 */
 
+//user routes
+//admin route for our multi-auth system
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/admin','AdminController@index')->name('admin');
+
 
 Route::get('/', function () {
     return view('dashboard');
@@ -35,3 +43,6 @@ Route::get('/blog', 'BlogController@index')->name('blog.index');
 
 //show single new
 Route::get('/blog/{id}', 'BlogController@show')->name('blog.show');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
