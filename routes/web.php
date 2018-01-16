@@ -23,12 +23,18 @@ Route::get('category/news', 'NewsCategoryController@index')->name('newscategory.
 // news category add
 Route::post('category/news/add', 'NewsCategoryController@store')->name('newscategory.add');
 
+//destroy category
+Route::get('category/news/delete/{id}', 'NewsCategoryController@destroy')->name('newscategory.destroy');
+
 
 //show news
 Route::get('/news', 'NewsController@index')->name('news.index');
 
 // add news
 Route::post('/news/add', 'NewsController@store')->name('news.add');
+
+//delete news
+//Route::get('/news', 'NewsController@destroy');
 
 // show news
 Route::get('/', 'BlogController@index')->name('blog.index');

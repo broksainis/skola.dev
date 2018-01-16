@@ -14,6 +14,10 @@
                 {!! Form::label('newsTitle', 'Nosaukums') !!}
                 {!! Form::text('newsTitle', '', ['class' => 'form-control']) !!}
 
+                {!! Form::label('newsImage', 'Saite uz fotogrāfiju') !!}
+                {!! Form::text('newsImage', '', ['class' => 'form-control']) !!}
+
+                {!! Form::label('newsCategoryName', 'Kategorija') !!}
                 <select name="newsCategoryName" id="newsCategoryName" class="form-control">
                     <option disabled>Izvēlies</option>
                     @foreach ($newscategories as $category)

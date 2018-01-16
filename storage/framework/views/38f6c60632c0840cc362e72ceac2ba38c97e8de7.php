@@ -15,6 +15,13 @@
                 <?php echo Form::text('newsTitle', '', ['class' => 'form-control']); ?>
 
 
+                <?php echo Form::label('newsImage', 'Saite uz fotogrāfiju'); ?>
+
+                <?php echo Form::text('newsImage', '', ['class' => 'form-control']); ?>
+
+
+                <?php echo Form::label('newsCategoryName', 'Kategorija'); ?>
+
                 <select name="newsCategoryName" id="newsCategoryName" class="form-control">
                     <option disabled>Izvēlies</option>
                     <?php $__currentLoopData = $newscategories; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $category): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>

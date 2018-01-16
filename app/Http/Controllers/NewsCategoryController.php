@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\NewsCategory;
+use DB;
 
 class NewsCategoryController extends Controller
 {
@@ -81,7 +82,7 @@ class NewsCategoryController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        //update goes here
     }
 
     /**
@@ -92,6 +93,7 @@ class NewsCategoryController extends Controller
      */
     public function destroy($id)
     {
-        //
+        DB::table('news_category')->where('id', $id)->delete();
+        return redirect('category/news');
     }
 }

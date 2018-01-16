@@ -4,8 +4,9 @@
         <?php $__currentLoopData = $news; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $new): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
     <div class="card text-left">
         <div class="card-block">
+            <?php if($new->image): ?><img class="img-thumbnail" src="<?php echo e($new->image); ?>" alt=""><?php else: ?> <img class="img-thumbnail" src="https://mosaikweb.com/wp-content/plugins/lightbox/images/No-image-found.jpg" alt="">  <?php endif; ?>
             <h4 class="card-title"><?php echo e($new->title); ?></h4>
-            <p class="card-text"><?php echo e($new->content); ?></p>
+            <p class="card-text"><?php echo e(str_limit($new->content, $limit = 150, $end = '...')); ?></p>
             <a href="<?php echo e(route('blog.show', ['id' => $new->id])); ?>" class="btn btn-primary">Lasīt tālāk..</a>
         </div>
         <div class="card-footer text-muted">

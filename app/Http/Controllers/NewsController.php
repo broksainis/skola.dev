@@ -43,6 +43,7 @@ class NewsController extends Controller
         $news = new News();
         $news->title = $request->newsTitle;
         $news->author = "John Lewis";
+        $news->image = $request->newsImage;
         $news->category = $request->newsCategoryName;
         $news->content = $request->newsContent;
         $news->save();
@@ -94,6 +95,8 @@ class NewsController extends Controller
      */
     public function destroy($id)
     {
-        //
+        DB::table('newsy')->where('id', $id)->delete();
+        return redirect('/news');
     }
+
 }
